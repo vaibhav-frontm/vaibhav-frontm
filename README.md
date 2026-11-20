@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-vaibhav → Product Engineer
+Vaibhav → Product Engineer
 
 $ cat skills.txt | sort -u
 cat
